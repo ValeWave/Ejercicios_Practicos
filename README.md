@@ -1,8 +1,8 @@
 # Ejercicios_Practicos
-En el presente repositorio se encuentran ejercicios de lógica en Java realizados durante todo el semestre acádemico 2024-02. 
+En el presente repositorio se encuentran ejercicios de lógica en Java realizados durante todo el semestre académico 2024-02. 
 
 
-## Mensajito extra📚
+## Mensajito extra al profe📚
 
 Dado que se acerca Navidad y final de semestre, aprovecho para expresarle mis más sinceros deseos:
 
